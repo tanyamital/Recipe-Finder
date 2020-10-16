@@ -1,1 +1,2 @@
 # Recipe-Finder
+This is a DBMS project implemented using MySQL database on the Xampp platform. It's an application to search for recipes based on user's preferences. The user then has to rate the recipe they view. The front end is developed using HTML and CSS. There are separate logins for the chefs and the users. When the chefs login, they'll be able to create new recipes or update their existing recipes.
