@@ -27,3 +27,8 @@ RELATIONSHIPS:
 •	User views Recipe.
 •	User gives Feedback.
 
+Screenshots:
+
+![Screenshot (232)](https://user-images.githubusercontent.com/56966861/128041959-fdf6fc2c-a88c-401a-a5d0-2428066e25a0.png)
+
+
